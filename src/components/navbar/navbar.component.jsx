@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <nav className='navbar'>
             <img className='nav-logo' src="./assets/icon.png" alt="Logo" />
-            <h1 className='nav-title'>MK ELECTRONIC</h1>
+            <h1 className='nav-title'>MK ELECTRONICS</h1>
 
             <CategoryFilter />
         </nav>
