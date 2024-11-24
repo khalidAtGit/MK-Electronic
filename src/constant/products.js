@@ -2,7 +2,7 @@ const products = [
     {
         id: 1,
         productName: 'Haier QLED, OLED TV',
-        productImageURL: '/assets/Haier.png',
+        productImageURL: './assets/Haier.png',
         productCategory: 'LED TV',
         productPrice: '7999',
         productRating: '5'
@@ -10,7 +10,7 @@ const products = [
     {
         id: 2,
         productName: 'Haier Side by Side',
-        productImageURL: '/assets/Haier Ref.png',
+        productImageURL: './assets/Haier Ref.png',
         productCategory: 'Refrigerators',
         productPrice: '10999',
         productRating: '4.9'
@@ -18,7 +18,7 @@ const products = [
     {
         id: 3,
         productName: 'Haier Front, Top, SA',
-        productImageURL: '/assets/Haier WM.png',
+        productImageURL: './assets/Haier WM.png',
         productCategory: 'Washing Machine',
         productPrice: '7999',
         productRating: '4.5'
