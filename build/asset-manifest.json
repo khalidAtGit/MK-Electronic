@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MK-Electronic/static/css/main.83464a92.css",
+    "main.js": "/MK-Electronic/static/js/main.42bb5bc6.js",
+    "index.html": "/MK-Electronic/index.html",
+    "main.83464a92.css.map": "/MK-Electronic/static/css/main.83464a92.css.map",
+    "main.42bb5bc6.js.map": "/MK-Electronic/static/js/main.42bb5bc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83464a92.css",
+    "static/js/main.42bb5bc6.js"
+  ]
+}
